@@ -9,17 +9,27 @@
 ### 🛠️ Tech Stack & Tools:
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js"/>
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Backend-PHP-orange?style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/Backend-Laravel-red?style=for-the-badge&logo=laravel"/>
   <img src="https://img.shields.io/badge/Database-MySQL-yellow?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Database-HeidiSQL-green?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Tools-Laragon-blue?style=for-the-badge&logo=laragon"/>
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-blue?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Mobile-Android%20Studio-green?style=for-the-badge&logo=android-studio"/>
+  <img src="https://img.shields.io/badge/Styling-Bootstrap-purple?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/Mobile-Flutter-blue?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Tools-Firebase-yellow?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Tools-Vite-purple?style=for-the-badge&logo=vite"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Design-Figma-red?style=for-the-badge&logo=figma"/>
 </div>
 
 ---
 
 ### 🔥 About Me:
-- 🎓 **Information System Graduate** | Universitas Mulawarman 
+- 🎓 **Information System Graduate** | Universitas Mulawarman | **GPA: 3.85**
 - 💻 Passionate about **building digital solutions** to create real-world impact
 - 🎯 Experienced in **developing, designing, and deploying web & mobile applications**
 - 📚 Constantly learning and exploring **cutting-edge technologies**
@@ -66,3 +76,4 @@
 ---
 
 🎯 *"Building impactful digital solutions, one line of code at a time."* 🚀
+
