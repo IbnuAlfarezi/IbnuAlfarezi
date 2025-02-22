@@ -60,7 +60,7 @@
 ### 📫 Let's Connect!
 🌐 **Website:** [ibnualfarezi.com](https://ibnualfarezi.com)  
 💼 **LinkedIn:** [Muhamad Ibnu Al Farezi Ramadhan](https://www.linkedin.com/in/ibnualfarezi/)  
-📧 **Email:** [your.email@example.com](muh.ibnufarezi@gmail.com)  
+📧 **Email:** [muh.ibnufarezi@gmail.com](muh.ibnufarezi@gmail.com)  
 📱 **GitHub:** [github.com/IbnuAlfarezi](https://github.com/IbnuAlfarezi)
 
 ---
