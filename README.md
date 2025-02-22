@@ -19,7 +19,7 @@
 ---
 
 ### 🔥 About Me:
-- 🎓 **Information System Graduate** | Universitas Mulawarman | **GPA: 3.85**
+- 🎓 **Information System Graduate** | Universitas Mulawarman 
 - 💻 Passionate about **building digital solutions** to create real-world impact
 - 🎯 Experienced in **developing, designing, and deploying web & mobile applications**
 - 📚 Constantly learning and exploring **cutting-edge technologies**
@@ -59,8 +59,8 @@
 
 ### 📫 Let's Connect!
 🌐 **Website:** [ibnualfarezi.com](https://ibnualfarezi.com)  
-💼 **LinkedIn:** [Muhamad Ibnu Al Farezi Ramadhan](#)  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+💼 **LinkedIn:** [Muhamad Ibnu Al Farezi Ramadhan](https://www.linkedin.com/in/ibnualfarezi/)  
+📧 **Email:** [your.email@example.com](muh.ibnufarezi@gmail.com)  
 📱 **GitHub:** [github.com/IbnuAlfarezi](https://github.com/IbnuAlfarezi)
 
 ---
