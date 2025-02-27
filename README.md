@@ -1,29 +1,47 @@
-### Hi there, I'm Muhamad Ibnu Al Farezi Ramadhan! 👋
+### Hi there, I'm **Muhamad Ibnu Al Farezi Ramadhan!** 👋
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbnuAlfarezi&theme=radical" alt="GitHub Stats" width="100%"/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbnuAlfarezi&theme=radical" alt="GitHub Stats" width="100%"/>
+</div>
+
+---
 
 🚀 **Full-Stack Developer | UI/UX Enthusiast | Tech Explorer**
+
+Passionate about building scalable digital solutions and exploring cutting-edge technologies. Experienced in developing web and mobile applications with a strong focus on UI/UX and software architecture.
 
 ---
 
 ### 🛠️ Tech Stack & Tools:
 
+#### 🚀 Frameworks & Libraries
 <div align="center">
-  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Backend-PHP-orange?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/Backend-Laravel-red?style=for-the-badge&logo=laravel"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-yellow?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Database-HeidiSQL-green?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Tools-Laragon-blue?style=for-the-badge&logo=laragon"/>
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-blue?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Styling-Bootstrap-purple?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/Mobile-Flutter-blue?style=for-the-badge&logo=flutter"/>
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Tools-Firebase-yellow?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Tools-Vite-purple?style=for-the-badge&logo=vite"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Design-Figma-red?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap"/>
+</div>
+
+#### 🖥️ Backend & Database
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-orange?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/HeidiSQL-green?style=for-the-badge&logo=mysql"/>
+</div>
+
+#### 📱 Mobile Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase"/>
+</div>
+
+#### 🛠️ Development Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite"/>
+  <img src="https://img.shields.io/badge/Laragon-blue?style=for-the-badge&logo=laragon"/>
+  <img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma"/>
 </div>
 
 ---
@@ -76,4 +94,3 @@
 ---
 
 🎯 *"Building impactful digital solutions, one line of code at a time."* 🚀
-
