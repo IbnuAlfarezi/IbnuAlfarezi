@@ -1,110 +1,153 @@
-### Hi there, I'm **Muhamad Ibnu Al Farezi Ramadhan!** 👋
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbnuAlfarezi&theme=radical" alt="GitHub Stats" width="100%"/>
+
+```
+⛏️  EXTRACTING VALUE FROM EVERY LINE OF CODE  ⛏️
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D97706,92400E,1C1917&height=200&section=header&text=Ibnu%20Al%20Farezi&fontSize=50&fontColor=FDE68A&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Samarinda%2C%20Kalimantan%20Timur&descAlignY=58&descColor=FCD34D&animation=twinkling"/>
+
 </div>
 
 ---
 
-🚀 **Full-Stack Developer | UI/UX Enthusiast | Tech Explorer**
+<div align="center">
 
-Passionate about building scalable digital solutions and exploring cutting-edge technologies. Experienced in developing web and mobile applications with a strong focus on UI/UX and software architecture.
+### `> whoami`
+
+</div>
+
+```yaml
+name       : Muhamad Ibnu Al Farezi Ramadhan
+alias      : IbnuAlfarezi
+location   : Samarinda, East Kalimantan 🇮🇩
+education  : Information System — Universitas Mulawarman
+role       : Full-Stack Developer & UI/UX Enthusiast
+status     : ⚡ Always digging deeper
+mission    : Building impactful digital solutions, one commit at a time
+```
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+<div align="center">
+
+### `> cat highlights.log`
+
+</div>
+
+```
+[✔] Graduate of Informatics — Universitas Mulawarman, Samarinda
+[✔] Built & deployed production-grade web and mobile applications
+[✔] Experienced with ERP systems (Odoo) for real-world business workflows
+[✔] Shipped apps with multi-role systems, payment flows, and real-time data
+[✔] UI/UX practitioner — design to deployment, end-to-end
+[✔] Open-source contributor & continuous learner
+[✔] Based in the resource capital of Indonesia — mining runs in the veins ⛏️
+```
+
+---
+
+<div align="center">
+
+### `> ls ./tech-stack --all`
+
+</div>
+
+#### ⚙️ Languages
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1C1917?style=for-the-badge&logo=javascript&logoColor=FDE68A)
+![TypeScript](https://img.shields.io/badge/TypeScript-1C1917?style=for-the-badge&logo=typescript&logoColor=FCD34D)
+![PHP](https://img.shields.io/badge/PHP-1C1917?style=for-the-badge&logo=php&logoColor=D97706)
+
+</div>
 
 #### 🚀 Frameworks & Libraries
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel"/>
-  <img src="https://img.shields.io/badge/Alpine.js-green?style=for-the-badge&logo=alpine.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap"/>
+
+![Next.js](https://img.shields.io/badge/Next.js-1C1917?style=for-the-badge&logo=next.js&logoColor=FDE68A)
+![React](https://img.shields.io/badge/React-1C1917?style=for-the-badge&logo=react&logoColor=FCD34D)
+![Laravel](https://img.shields.io/badge/Laravel-1C1917?style=for-the-badge&logo=laravel&logoColor=D97706)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1C1917?style=for-the-badge&logo=tailwindcss&logoColor=FDE68A)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-1C1917?style=for-the-badge&logo=alpine.js&logoColor=FCD34D)
+
 </div>
 
-#### 🖥️ Frontend & Backend
+#### 🗄️ Databases
+
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C1917?style=for-the-badge&logo=postgresql&logoColor=FDE68A)
+![MySQL](https://img.shields.io/badge/MySQL-1C1917?style=for-the-badge&logo=mysql&logoColor=FCD34D)
+![Firebase](https://img.shields.io/badge/Firebase-1C1917?style=for-the-badge&logo=firebase&logoColor=D97706)
+
 </div>
 
-#### 🗄️ Database & Storage
+#### 🏗️ Platforms & Tools
+
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/HeidiSQL-green?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase"/>
+
+![Odoo](https://img.shields.io/badge/Odoo-1C1917?style=for-the-badge&logo=odoo&logoColor=FDE68A)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1C1917?style=for-the-badge&logo=ubuntu&logoColor=FCD34D)
+![Node.js](https://img.shields.io/badge/Node.js-1C1917?style=for-the-badge&logo=node.js&logoColor=D97706)
+![Flutter](https://img.shields.io/badge/Flutter-1C1917?style=for-the-badge&logo=flutter&logoColor=FDE68A)
+
 </div>
 
-#### 📱 Mobile Development
+#### 🎨 Design
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter"/>
-</div>
 
-#### 🎨 Design & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-blue?style=for-the-badge&logo=adobe-photoshop"/>
-</div>
+![Figma](https://img.shields.io/badge/Figma-1C1917?style=for-the-badge&logo=figma&logoColor=FCD34D)
+![Photoshop](https://img.shields.io/badge/Photoshop-1C1917?style=for-the-badge&logo=adobe-photoshop&logoColor=D97706)
 
-#### 🛠️ Development Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite"/>
-  <img src="https://img.shields.io/badge/Laragon-blue?style=for-the-badge&logo=laragon"/>
-</div>
-
----
-
-### 🔥 About Me:
-- 🎓 **Information System Graduate** | Universitas Mulawarman
-- 💻 Passionate about **building digital solutions** to create real-world impact
-- 🎯 Experienced in **developing, designing, and deploying web & mobile applications**
-- 📚 Constantly learning and exploring **cutting-edge technologies**
-- 🚀 Enthusiastic about **open-source projects** & tech community contributions
-
----
-
-### 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IbnuAlfarezi&theme=onedark&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbnuAlfarezi&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbnuAlfarezi&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuAlfarezi&layout=compact&theme=radical"/>
+
+### `> git log --stat`
+
+<img src="https://github-readme-stats.vercel.app/api?username=IbnuAlfarezi&show_icons=true&theme=dark&bg_color=1C1917&title_color=FDE68A&icon_color=D97706&text_color=FCD34D&border_color=92400E" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbnuAlfarezi&theme=dark&background=1C1917&ring=D97706&fire=FDE68A&currStreakLabel=FCD34D&border=92400E" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuAlfarezi&layout=compact&theme=dark&bg_color=1C1917&title_color=FDE68A&text_color=FCD34D&border_color=92400E"/>
+
 </div>
 
 ---
 
-### 🚀 Featured Projects:
+<div align="center">
 
-🌟 **[Kita Berbagi](#)** → A **fundraising platform** for social causes (**UI/UX Design**)
+### `> trophy --display`
 
-🎭 **[Nusantara](#)** → An app for **exploring Indonesian culture**
+<img src="https://github-profile-trophy.vercel.app/?username=IbnuAlfarezi&theme=onedark&no-frame=true&row=1&column=7&margin-w=8"/>
 
-🚌 **[Bus Reservation System](#)** → A **bus ticket booking system** powered by Firebase & Google Auth
-
-🛍️ **[E-Commerce Platform](#)** → **Shopping center management system** with multi-role support (Java, Firebase)
-
-📊 **[Project Monitoring System](#)** → **Web-based Scrum project tracking** tool for CV Indocitra
+</div>
 
 ---
 
-### 📫 Let's Connect!
-🌐 **Website:** [ibnualfarezi.com](https://ibnualfarezi.com)  
-💼 **LinkedIn:** [Muhamad Ibnu Al Farezi Ramadhan](https://www.linkedin.com/in/ibnualfarezi/)  
-📧 **Email:** [muh.ibnufarezi@gmail.com](muh.ibnufarezi@gmail.com)  
-📱 **GitHub:** [github.com/IbnuAlfarezi](https://github.com/IbnuAlfarezi)
+<div align="center">
+
+### `> ping --connect`
+
+[![Website](https://img.shields.io/badge/🌐_Website-ibnualfarezi.com-1C1917?style=for-the-badge&labelColor=92400E&color=1C1917&logoColor=FDE68A)](https://ibnualfarezi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibnu_Alfarezi-1C1917?style=for-the-badge&logo=linkedin&labelColor=92400E&color=1C1917&logoColor=FDE68A)](https://www.linkedin.com/in/ibnualfarezi/)
+[![Email](https://img.shields.io/badge/Email-muh.ibnufarezi@gmail.com-1C1917?style=for-the-badge&logo=gmail&labelColor=92400E&color=1C1917&logoColor=FDE68A)](mailto:muh.ibnufarezi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-IbnuAlfarezi-1C1917?style=for-the-badge&logo=github&labelColor=92400E&color=1C1917&logoColor=FDE68A)](https://github.com/IbnuAlfarezi)
+
+</div>
 
 ---
 
-🎯 *"Building impactful digital solutions, one line of code at a time."* 🚀
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D97706,92400E,1C1917&height=120&section=footer&text=Keep%20Digging%20%E2%9B%8F%EF%B8%8F&fontSize=24&fontColor=FDE68A&fontAlignY=65&animation=twinkling"/>
+
+*"The deeper you dig, the more valuable the ore."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=IbnuAlfarezi&color=D97706&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
