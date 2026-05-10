@@ -1,185 +1,248 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D97706,92400E,1C1917&height=220&section=header&text=Ibnu%20Al%20Farezi&fontSize=52&fontColor=FDE68A&fontAlignY=40&desc=Software%20Engineer%20%7C%20ERP%20Developer%20%7C%20Samarinda%2C%20Kalimantan%20Timur%20🇮🇩&descAlignY=60&descColor=FCD34D&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1C1917,292524,44403C&height=180&text=IbnuAlfarezi&fontSize=58&fontColor=FDE68A&fontAlignY=55&desc=Software%20Engineer%20·%20ERP%20Developer%20·%20Full-Stack&descAlignY=78&descColor=A8A29E&animation=fadeIn"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=D97706&center=true&vCenter=true&width=600&lines=⛏️+Digging+deep+into+every+problem...;🔩+ERP+Specialist+%7C+Odoo+v10+%26+v17;🖥️+Building+web+apps+that+actually+work;🐍+Python+%2B+Next.js+%2B+Odoo+Framework;🐧+Linux+infra%2C+Docker%2C+and+beyond)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ⛏️   EXTRACTING VALUE FROM EVERY LINE OF CODE   ⛏️
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╔══════════════════════════════════════════════════════════╗
+║   $ cat /etc/identity                                    ║
+╠══════════════════════════════════════════════════════════╣
+║   alias     →  IbnuAlfarezi                              ║
+║   role      →  Software Engineer & ERP Developer         ║
+║   company   →  PT. Graha Prima Energy                    ║
+║   degree    →  S1 Sistem Informasi  ·  GPA 3.85 / 4.00  ║
+║   status    →  [ACTIVE] Building in production           ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## `> whoami`
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ⛏️ &nbsp;What I Mine Daily
+
+```python
+class Engineer:
+    def __init__(self):
+        self.focus = [
+            "Odoo ERP (v10 & v17)",
+            "Full-Stack Web Apps",
+            "Linux Infrastructure",
+            "BI & Data Dashboards",
+            "IoT & Hardware Integration",
+        ]
+        self.currently = "PT. Graha Prima Energy"
+        self.gpa       = 3.85
+        self.mindset   = "Ship it. Improve it. Repeat."
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔩 &nbsp;Current Ore Seams
 
 ```yaml
-name       : Muhamad Ibnu Al Farezi Ramadhan
-alias      : IbnuAlfarezi
-location   : Samarinda, East Kalimantan 🇮🇩
-education  : S1 Sistem Informasi — Universitas Mulawarman (GPA 3.85 / 4.00)
-role       : Software Engineer & ERP Developer
-current    : PT. Graha Prima Energy — Samarinda
-status     : ⚡ Always digging deeper
+erp:
+  - Odoo v10 → maintenance & custom modules
+  - Odoo v17 → feature dev, OWL framework
+  - Migration: v10 → v17 (full porting)
+  - Biometric integration (fingerprint/face)
+
+infra:
+  - Ubuntu · AlmaLinux · Debian
+  - Docker + Cloudflare Tunnel
+  - Mail Server · Netdata monitoring
+
+data:
+  - Metabase BI (KPI dashboards)
+  - PostgreSQL optimization
 ```
 
+</td>
+</tr>
+</table>
+
+<br/>
+
 ---
 
-## `> cat highlights.log`
+## `$ ls -la ./stack`
+
+<br/>
+
+<div align="center">
+
+**— Languages —**
+
+![Python](https://img.shields.io/badge/Python-292524?style=flat-square&logo=python&logoColor=FDE68A)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-292524?style=flat-square&logo=javascript&logoColor=FDE68A)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-292524?style=flat-square&logo=typescript&logoColor=FCD34D)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-292524?style=flat-square&logo=php&logoColor=D97706)
+
+<br/>
+
+**— Frameworks —**
+
+![Next.js](https://img.shields.io/badge/Next.js-292524?style=flat-square&logo=next.js&logoColor=FDE68A)&nbsp;
+![React](https://img.shields.io/badge/React-292524?style=flat-square&logo=react&logoColor=FCD34D)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-292524?style=flat-square&logo=laravel&logoColor=D97706)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-292524?style=flat-square&logo=tailwindcss&logoColor=FDE68A)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-292524?style=flat-square&logo=node.js&logoColor=FCD34D)
+
+<br/>
+
+**— ⭐ ERP Platform —**
+
+![Odoo v10](https://img.shields.io/badge/Odoo%20v10-78350F?style=flat-square&logo=odoo&logoColor=FDE68A)&nbsp;
+![Odoo v17](https://img.shields.io/badge/Odoo%20v17-D97706?style=flat-square&logo=odoo&logoColor=1C1917)&nbsp;
+![Odoo Framework](https://img.shields.io/badge/Odoo%20Framework-92400E?style=flat-square&logo=odoo&logoColor=FCD34D)
+
+<br/>
+
+**— Databases —**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292524?style=flat-square&logo=postgresql&logoColor=FDE68A)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-292524?style=flat-square&logo=mysql&logoColor=FCD34D)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-292524?style=flat-square&logo=firebase&logoColor=D97706)
+
+<br/>
+
+**— Infrastructure —**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-292524?style=flat-square&logo=ubuntu&logoColor=FDE68A)&nbsp;
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-292524?style=flat-square&logo=almalinux&logoColor=FCD34D)&nbsp;
+![Debian](https://img.shields.io/badge/Debian-292524?style=flat-square&logo=debian&logoColor=D97706)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-292524?style=flat-square&logo=docker&logoColor=FDE68A)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-292524?style=flat-square&logo=cloudflare&logoColor=FCD34D)
+
+<br/>
+
+**— Analytics & Tools —**
+
+![Metabase](https://img.shields.io/badge/Metabase-292524?style=flat-square&logo=metabase&logoColor=FDE68A)&nbsp;
+![Git](https://img.shields.io/badge/Git-292524?style=flat-square&logo=git&logoColor=FCD34D)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-292524?style=flat-square&logo=figma&logoColor=D97706)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-292524?style=flat-square&logo=flutter&logoColor=FDE68A)
+
+</div>
+
+<br/>
+
+---
+
+## `$ odoo --expertise`
+
+<br/>
+
+<div align="center">
+
+<table>
+<thead>
+<tr>
+<th align="center">Version</th>
+<th align="center">Stack</th>
+<th align="left">Expertise</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>🟤 Odoo 10</b></td>
+<td align="center">Python 2 · XML Views · PostgreSQL</td>
+<td>Legacy maintenance, module customization, data integrity</td>
+</tr>
+<tr>
+<td align="center"><b>🟡 Odoo 17</b></td>
+<td align="center">Python 3 · OWL Framework · PostgreSQL</td>
+<td>Feature development, modern architecture, duplication</td>
+</tr>
+<tr>
+<td align="center"><b>🔁 Migration</b></td>
+<td align="center">v10 → v17 full porting</td>
+<td>Data migration, business continuity, biometric integration</td>
+</tr>
+</tbody>
+</table>
+
+> *Rare combo — fluent in both legacy and modern Odoo.*
+
+</div>
+
+<br/>
+
+---
+
+## `$ git log --oneline`
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IbnuAlfarezi&show_icons=true&hide_border=true&bg_color=1C1917&title_color=FDE68A&icon_color=D97706&text_color=A8A29E&ring_color=92400E" width="47%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbnuAlfarezi&hide_border=true&background=1C1917&ring=D97706&fire=FDE68A&currStreakLabel=FCD34D&sideLabels=A8A29E&dates=57534E&currStreakNum=FDE68A&sideNums=FCD34D" width="47%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuAlfarezi&layout=compact&hide_border=true&bg_color=1C1917&title_color=FDE68A&text_color=A8A29E" width="40%"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IbnuAlfarezi&theme=radical&utcOffset=8" width="40%"/>
+
+</div>
+
+<br/>
+
+---
+
+## `$ trophy --show`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IbnuAlfarezi&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
 
 ```
-[CORE IDENTITY]
-  ✔  S1 Sistem Informasi, Universitas Mulawarman — GPA 3.85/4.00, Lulus 2024
-  ✔  Software Engineer & ERP Developer — currently at PT. Graha Prima Energy
-  ✔  Full-Stack architect: Next.js + Python + Odoo, end-to-end delivery
-  ✔  Comfortable in dynamic, field-operational environments (roster-ready)
-
-[ERP EXPERTISE]  ★★★
-  ✔  Odoo ERP v10  — maintenance, module customization & legacy system upkeep
-  ✔  Odoo ERP v17  — feature development, duplication, OWL framework
-  ✔  Led full migration: Odoo v10 → v17, maintaining data & business continuity
-  ✔  Biometric integration: fingerprint & face recognition → Odoo attendance
-  ✔  Deep experience in modules: Inventory, Fleet, Maintenance, Purchase, HR
-  ✔  Built internal web apps on top of Odoo API (P2H System, Attendance System)
-
-[INFRASTRUCTURE & DEVOPS]
-  ✔  Linux server admin: Ubuntu, AlmaLinux, Debian
-  ✔  Containerization & tunneling: Docker + Cloudflare Tunnel
-  ✔  Mail Server setup on AlmaLinux
-  ✔  Server monitoring via Netdata
-
-[DATA & ANALYTICS]
-  ✔  Metabase BI dashboards for real-time KPI (Purchase & Inventory)
-  ✔  SQL optimization on PostgreSQL at production scale
-
-[HARDWARE INTEGRATION]
-  ✔  Fleet monitoring system with Howen VSS dashcam (speed & idle tracking)
-  ✔  IoT device integration for operational fleet management (A2B system)
-
-[DELIVERY]
-  ✔  Land Certificate Management System — Python REST API + Next.js
-  ✔  Project Monitoring System — full web-based Scrum tracker
-  ✔  Based in the resource capital of Indonesia — mining runs in the veins ⛏️
+┌─────────────────────────────────────────────────────────┐
+│  Open to collaborate · Open to interesting problems     │
+│  ERP consulting · Full-stack projects · OSS             │
+└─────────────────────────────────────────────────────────┘
 ```
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-292524?style=flat-square&logo=linkedin&logoColor=FDE68A)](https://www.linkedin.com/in/ibnualfarezi/)&nbsp;
+[![Website](https://img.shields.io/badge/Website-292524?style=flat-square&logo=firefox&logoColor=FCD34D)](https://ibnualfarezi.my.id)&nbsp;
+[![Email](https://img.shields.io/badge/Email-292524?style=flat-square&logo=gmail&logoColor=D97706)](mailto:muh.ibnufarezi@gmail.com)
 
-## `> ls ./tech-stack --verified`
+<br/>
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=IbnuAlfarezi&color=D97706&style=flat-square&label=profile+views)
 
-#### Languages
+<br/>
 
-![Python](https://img.shields.io/badge/Python-1C1917?style=for-the-badge&logo=python&logoColor=FDE68A)
-![JavaScript](https://img.shields.io/badge/JavaScript-1C1917?style=for-the-badge&logo=javascript&logoColor=FCD34D)
-![TypeScript](https://img.shields.io/badge/TypeScript-1C1917?style=for-the-badge&logo=typescript&logoColor=D97706)
-![PHP](https://img.shields.io/badge/PHP-1C1917?style=for-the-badge&logo=php&logoColor=FDE68A)
-
-#### Frameworks & Libraries
-
-![Next.js](https://img.shields.io/badge/Next.js-1C1917?style=for-the-badge&logo=next.js&logoColor=FDE68A)
-![React](https://img.shields.io/badge/React-1C1917?style=for-the-badge&logo=react&logoColor=FCD34D)
-![Laravel](https://img.shields.io/badge/Laravel-1C1917?style=for-the-badge&logo=laravel&logoColor=D97706)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1C1917?style=for-the-badge&logo=tailwindcss&logoColor=FDE68A)
-![Node.js](https://img.shields.io/badge/Node.js-1C1917?style=for-the-badge&logo=node.js&logoColor=FCD34D)
-
-#### ⭐ ERP Platform
-
-![Odoo v10](https://img.shields.io/badge/Odoo_v10-92400E?style=for-the-badge&logo=odoo&logoColor=FDE68A)
-![Odoo v17](https://img.shields.io/badge/Odoo_v17-D97706?style=for-the-badge&logo=odoo&logoColor=1C1917)
-![Odoo Framework](https://img.shields.io/badge/Odoo_Framework-1C1917?style=for-the-badge&logo=odoo&logoColor=FCD34D)
-
-#### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C1917?style=for-the-badge&logo=postgresql&logoColor=FDE68A)
-![MySQL](https://img.shields.io/badge/MySQL-1C1917?style=for-the-badge&logo=mysql&logoColor=FCD34D)
-![Firebase](https://img.shields.io/badge/Firebase-1C1917?style=for-the-badge&logo=firebase&logoColor=D97706)
-
-#### Infrastructure & DevOps
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-1C1917?style=for-the-badge&logo=ubuntu&logoColor=FDE68A)
-![AlmaLinux](https://img.shields.io/badge/AlmaLinux-1C1917?style=for-the-badge&logo=almalinux&logoColor=FCD34D)
-![Debian](https://img.shields.io/badge/Debian-1C1917?style=for-the-badge&logo=debian&logoColor=D97706)
-![Docker](https://img.shields.io/badge/Docker-1C1917?style=for-the-badge&logo=docker&logoColor=FDE68A)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-1C1917?style=for-the-badge&logo=cloudflare&logoColor=FCD34D)
-
-#### Analytics & Tools
-
-![Metabase](https://img.shields.io/badge/Metabase_BI-1C1917?style=for-the-badge&logo=metabase&logoColor=FDE68A)
-![Git](https://img.shields.io/badge/Git-1C1917?style=for-the-badge&logo=git&logoColor=FCD34D)
-![Figma](https://img.shields.io/badge/Figma-1C1917?style=for-the-badge&logo=figma&logoColor=D97706)
-
-#### Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-1C1917?style=for-the-badge&logo=flutter&logoColor=FDE68A)
-
-</div>
-
----
-
-## `> odoo --versions --detail`
-
-<div align="center">
-
-| | Version | Core Stack | What I Do |
-|--|---------|-----------|-----------|
-| 🟤 | **Odoo 10** | Python 2 · PostgreSQL · XML Views | Legacy maintenance, upkeep & module customization |
-| 🟡 | **Odoo 17** | Python 3 · PostgreSQL · OWL Framework | New feature dev, duplication, modern architecture |
-| 🔁 | **v10 → v17** | Migration & Porting | Full system migration with data & business continuity |
-
-*From legacy to modern — mastering both ends of the Odoo spectrum.*
-
-</div>
-
----
-
-## `> git log --stat`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IbnuAlfarezi&show_icons=true&theme=dark&bg_color=1C1917&title_color=FDE68A&icon_color=D97706&text_color=FCD34D&border_color=92400E" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbnuAlfarezi&theme=dark&background=1C1917&ring=D97706&fire=FDE68A&currStreakLabel=FCD34D&border=92400E" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuAlfarezi&layout=compact&theme=dark&bg_color=1C1917&title_color=FDE68A&text_color=FCD34D&border_color=92400E"/>
-
-</div>
-
----
-
-## `> trophy --display`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IbnuAlfarezi&theme=onedark&no-frame=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
----
-
-## `> ping --connect`
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_ibnualfarezi.my.id-1C1917?style=for-the-badge&labelColor=92400E&logoColor=FDE68A)](https://ibnualfarezi.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1917?style=for-the-badge&logo=linkedin&labelColor=92400E&logoColor=FDE68A)](https://www.linkedin.com/in/ibnualfarezi/)
-[![Email](https://img.shields.io/badge/Gmail-1C1917?style=for-the-badge&logo=gmail&labelColor=92400E&logoColor=FDE68A)](mailto:muh.ibnufarezi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1C1917?style=for-the-badge&logo=github&labelColor=92400E&logoColor=FDE68A)](https://github.com/IbnuAlfarezi)
-
-![Profile Views](https://komarev.com/ghpvc/?username=IbnuAlfarezi&color=D97706&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1C1917,92400E,D97706&height=130&section=footer&text=Keep%20Digging%20⛏️&fontSize=26&fontColor=FDE68A&fontAlignY=65&animation=twinkling"/>
-
-*"The deeper you dig, the more valuable the ore."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1C1917,292524,44403C&height=100&section=footer&fontColor=FDE68A&animation=twinkling"/>
 
 </div>
