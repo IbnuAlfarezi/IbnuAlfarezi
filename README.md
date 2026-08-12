@@ -15,7 +15,7 @@
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/username-linkedin-anda)
 [![](https://img.shields.io/badge/github-181717)](https://github.com/username-github-anda)
 
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="100%" height="50px">
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="100%" height="50cm">
 <br><br>
 
 </div>
