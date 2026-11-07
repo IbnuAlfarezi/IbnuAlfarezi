@@ -1,64 +1,50 @@
  <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ibnu+%F0%9F%91%8B;Software+Engineer;Odoo+%26+Next.js+Developer;Building+Digital+Solutions" />
+# Ibnu Alfarezi
 
-  <p>
-    <b>Software Engineer | Odoo Developer | Next.js Developer</b>
-  </p>
+**Software Engineer · Odoo Developer · Next.js Developer**
 
-  <a href="https://www.linkedin.com/in/ibnualfarezi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/IbnuAlfarezi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" />
-  </a>
+Building business applications, ERP solutions, and modern web experiences.
+
+[LinkedIn](https://www.linkedin.com/in/ibnualfarezi/) · [GitHub](https://github.com/IbnuAlfarezi)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-Hi, I'm Ibnu — a Software Engineer passionate about building software solutions, from enterprise systems to modern web applications.
+I'm a Software Engineer interested in building practical software solutions and solving real-world business problems.
 
-I enjoy working across different layers of development, understanding business requirements, and turning ideas into functional applications.
+My work spans enterprise application development, ERP customization, and modern web application development.
 
-- 🚀 Developing and customizing enterprise applications with Odoo.
-- 🌐 Building modern web applications with Next.js.
-- ⚙️ Designing backend systems, APIs, and database architectures.
-- 🐳 Working with Docker, Linux, and deployment infrastructure.
-- 🔍 Exploring system architecture, automation, and open-source technologies.
+- Developing and customizing Odoo applications.
+- Building web applications using Next.js and React.
+- Designing backend services, REST APIs, and database structures.
+- Managing application deployment and development environments.
+- Exploring software architecture and open-source technologies.
 
-### 🛠️ Technologies & Tools
+### Technologies
 
-<div align="center">
+| Category | Technologies |
+|---|---|
+| Languages | Python, JavaScript, TypeScript |
+| Frontend | Next.js, React, HTML, CSS, Tailwind CSS |
+| Backend | Odoo, Node.js, REST API |
+| Database | PostgreSQL, MySQL |
+| Infrastructure | Docker, Linux, Nginx |
+| Tools | Git, GitHub |
 
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,postgres,mysql,html,css,tailwind,docker,linux,git,github" />
+### GitHub
 
-</div>
+My open-source work, experiments, and development activities are available in my repositories.
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IbnuAlfarezi&show_icons=true&theme=transparent&hide_border=true&title_color=00C896&icon_color=00C896&rank_icon=github" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuAlfarezi&layout=compact&theme=transparent&hide_border=true&title_color=00C896" />
-
-  <br />
-
-  <img width="95%" src="https://streak-stats.demolab.com?user=IbnuAlfarezi&theme=transparent&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896" />
-
-</div>
+[Explore my repositories](https://github.com/IbnuAlfarezi?tab=repositories)
 
 ---
 
 <div align="center">
 
-  <i>"Build meaningful things. Keep learning. Keep improving."</i>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=IbnuAlfarezi&style=flat-square&color=00C896&label=PROFILE+VIEWS" />
+*Building things that solve real problems.*
 
 </div>
