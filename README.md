@@ -1,123 +1,54 @@
- <div align="center">
+&#x20;\<div align="center">
 
 # IBNU ALFAREZI
 
-### Software Engineer
+**Software Engineer · Odoo & Next.js Developer**
 
-**Odoo Developer · Next.js Developer · Backend Engineering**
+ERP · Web Development · AI & Automation
 
-Building enterprise applications and modern web solutions.
+\<br/>
 
-<br />
+\<a href="[https://www.linkedin.com/in/ibnualfarezi/](https://www.linkedin.com/in/ibnualfarezi/)">LinkedIn\</a> ·
+\<a href="[https://github.com/IbnuAlfarezi](https://github.com/IbnuAlfarezi)">GitHub\</a>
 
-<a href="https://www.linkedin.com/in/ibnualfarezi/">LinkedIn</a>
-&nbsp; / &nbsp;
-<a href="https://github.com/IbnuAlfarezi">GitHub</a>
-&nbsp; / &nbsp;
-<a href="https://github.com/IbnuAlfarezi?tab=repositories">Repositories</a>
-
-</div>
+\</div>
 
 ---
 
-## PROFILE
+\<div align="center">
 
-<table>
-<tr>
-<td width="60%" valign="top">
+### TECHNOLOGIES
 
-### About Me
+\<img src="[https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,postgres,docker,linux,git&theme=dark](https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,postgres,docker,linux,git\&theme=dark)" />
 
-I'm a Software Engineer focused on developing business applications, enterprise systems, and modern web technologies.
+\<br/>\<br/>
 
-I work across different layers of software development, from understanding business requirements and designing system architecture to implementation and deployment.
+\<img src="[https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white](https://img.shields.io/badge/Odoo-714B67?style=flat-square\&logo=odoo\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/AI-Agents-222222?style=flat-square](https://img.shields.io/badge/AI-Agents-222222?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/MCP-Model_Context_Protocol-222222?style=flat-square](https://img.shields.io/badge/MCP-Model_Context_Protocol-222222?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/LLM-Integration-222222?style=flat-square](https://img.shields.io/badge/LLM-Integration-222222?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/Automation-Workflows-222222?style=flat-square](https://img.shields.io/badge/Automation-Workflows-222222?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/Hermes-AI_Agents-222222?style=flat-square](https://img.shields.io/badge/Hermes-AI_Agents-222222?style=flat-square)" />
 
-I enjoy building solutions that are practical, maintainable, and designed to solve actual business problems.
+\</div>
 
-</td>
-<td width="40%" valign="top">
+### AREAS OF INTEREST
 
-### Current Focus
+`ERP Development` · `Full-Stack Development` · `AI Agents` · `LLM Integration` · `Workflow Automation` · `System Architecture`
 
-- Enterprise Application Development
-- Odoo ERP Customization
-- Next.js Application Development
-- Backend & API Engineering
-- System Architecture
-- Infrastructure & Deployment
+\<div align="center">
 
-</td>
-</tr>
-</table>
+### GITHUB ACTIVITY
 
----
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=IbnuAlfarezi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github](https://github-readme-stats.vercel.app/api?username=IbnuAlfarezi\&show_icons=true\&hide_border=true\&theme=transparent\&rank_icon=github)" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuAlfarezi&layout=compact&hide_border=true&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuAlfarezi\&layout=compact\&hide_border=true\&theme=transparent)" />
 
-## TECHNOLOGIES
+\<br/>
 
-### Languages
+\<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=IbnuAlfarezi&theme=github-compact&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=IbnuAlfarezi\&theme=github-compact\&hide_border=true\&area=true)" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-</p>
+\<br/>
 
-### Frameworks & Development
+\<sub>Build · Automate · Evolve\</sub>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind" />
-</p>
-
-### Database & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,nginx,git,github" />
-</p>
-
-### Areas of Expertise
-
-| Area | Focus |
-|:---|:---|
-| ERP Development | Odoo customization, business workflows, enterprise solutions |
-| Web Development | Next.js, React, responsive applications |
-| Backend Engineering | Python, REST API, integrations |
-| Database | PostgreSQL, relational database design |
-| Infrastructure | Docker, Linux, Nginx, deployment |
-
----
-
-## SELECTED WORK
-
-**Odoo Development**
-
-Custom modules, ERP workflows, integrations, and business process automation.
-
-**Web Application Development**
-
-Modern web applications with Next.js, React, and backend integrations.
-
-**Open Source**
-
-Sharing development tools, experiments, and reusable solutions with the developer community.
-
----
-
-## GITHUB ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/IbnuAlfarezi">
-  <img width="100%" src="./profile/stats.svg" alt="GitHub Profile Statistics" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-**IBNU ALFAREZI**
-
-Software Engineer · Indonesia
-
-<sub>Design. Develop. Improve.</sub>
-
-</div>
+\</div>
